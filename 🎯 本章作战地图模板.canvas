@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","x":0,"y":-140,"width":900,"height":120,"text":"## 🎯 本章作战地图\n\n> 复制本文件改名，把节点换成你要攻的章。"},
+		{"id":"g1","type":"group","x":0,"y":40,"width":620,"height":700,"color":"5","label":"① 概念（必须能复述）"},
+		{"id":"g2","type":"group","x":660,"y":40,"width":620,"height":700,"color":"3","label":"② 方法（必须能操作）"},
+		{"id":"g3","type":"group","x":1320,"y":40,"width":620,"height":700,"color":"1","label":"③ 易错（必须能识别）"},
+		{"id":"g4","type":"group","x":1980,"y":40,"width":620,"height":700,"color":"2","label":"④ 变式（必须能举一反三）"},
+		{"id":"n1","type":"text","x":20,"y":100,"width":560,"height":180,"text":"把本节的定义/定理链接拖到这里"},
+		{"id":"n2","type":"text","x":680,"y":100,"width":560,"height":180,"text":"把「核心方法」写在这里"},
+		{"id":"n3","type":"text","x":1340,"y":100,"width":560,"height":180,"text":"把高频错误写在这里"},
+		{"id":"n4","type":"text","x":2000,"y":100,"width":560,"height":180,"text":"写出 3 个变式方向"}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"n1","toNode":"n2","toEnd":"arrow","label":"推出","color":"4","fromSide":"right","toSide":"left"},
+		{"id":"e2","fromNode":"n2","toNode":"n3","toEnd":"arrow","label":"用错会怎样","color":"1","fromSide":"right","toSide":"left"},
+		{"id":"e3","fromNode":"n3","toNode":"n4","toEnd":"arrow","label":"修正后变形","color":"2","fromSide":"right","toSide":"left"}
+	]
+}

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 384" width="1000" height="384" role="img" aria-label="习题1-1-第14题"><rect width="100%" height="100%" fill="#fff"/><g font-family="DejaVu Sans, Noto Sans CJK SC, sans-serif"><text x="20.00" y="28.00" font-size="18" fill="#27354a" text-anchor="start">（1）f(g(x))：先算 g，再算 f</text>
+<defs><clipPath id="p0"><rect x="58.0" y="52" width="412.0" height="256"/></clipPath></defs>
+<path d="M126.67,308.00 L126.67,52.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="126.67" y="328.00" font-size="12" fill="#27354a" text-anchor="middle">-2</text>
+<path d="M195.33,308.00 L195.33,52.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="195.33" y="328.00" font-size="12" fill="#27354a" text-anchor="middle">-1</text>
+<path d="M264.00,308.00 L264.00,52.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="264.00" y="328.00" font-size="12" fill="#27354a" text-anchor="middle">0</text>
+<path d="M332.67,308.00 L332.67,52.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="332.67" y="328.00" font-size="12" fill="#27354a" text-anchor="middle">1</text>
+<path d="M401.33,308.00 L401.33,52.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="401.33" y="328.00" font-size="12" fill="#27354a" text-anchor="middle">2</text>
+<path d="M58.00,260.00 L470.00,260.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="49.00" y="264.00" font-size="12" fill="#27354a" text-anchor="end">-1</text>
+<path d="M58.00,180.00 L470.00,180.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="49.00" y="184.00" font-size="12" fill="#27354a" text-anchor="end">0</text>
+<path d="M58.00,100.00 L470.00,100.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="49.00" y="104.00" font-size="12" fill="#27354a" text-anchor="end">1</text>
+<path d="M264.00,308.00 L264.00,52.00" fill="none" stroke="#7b8797" stroke-width="1.4"/>
+<path d="M58.00,180.00 L470.00,180.00" fill="none" stroke="#7b8797" stroke-width="1.4"/>
+<text x="478.00" y="180.00" font-size="13" fill="#27354a" text-anchor="start">x</text>
+<text x="271.00" y="44.00" font-size="13" fill="#27354a" text-anchor="start">y</text>
+<path d="M58.00,100.00 L264.00,100.00" fill="none" stroke="#2463b5" stroke-width="2"/>
+<path d="M264.00,260.00 L470.00,260.00" fill="none" stroke="#2463b5" stroke-width="2"/>
+<circle cx="264.00" cy="260.00" r="4.3" fill="white" stroke="#2463b5" stroke-width="1.7"/>
+<circle cx="264.00" cy="100.00" r="4.3" fill="white" stroke="#2463b5" stroke-width="1.7"/>
+<circle cx="264.00" cy="180.00" r="4.3" fill="#2463b5" stroke="#2463b5" stroke-width="1.7"/>
+<text x="520.00" y="28.00" font-size="18" fill="#27354a" text-anchor="start">（2）g(f(x))：先算 f，再算 g</text>
+<defs><clipPath id="p1"><rect x="558.0" y="52" width="412.0" height="256"/></clipPath></defs>
+<path d="M626.67,308.00 L626.67,52.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="626.67" y="328.00" font-size="12" fill="#27354a" text-anchor="middle">-2</text>
+<path d="M695.33,308.00 L695.33,52.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="695.33" y="328.00" font-size="12" fill="#27354a" text-anchor="middle">-1</text>
+<path d="M764.00,308.00 L764.00,52.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="764.00" y="328.00" font-size="12" fill="#27354a" text-anchor="middle">0</text>
+<path d="M832.67,308.00 L832.67,52.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="832.67" y="328.00" font-size="12" fill="#27354a" text-anchor="middle">1</text>
+<path d="M901.33,308.00 L901.33,52.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="901.33" y="328.00" font-size="12" fill="#27354a" text-anchor="middle">2</text>
+<path d="M558.00,308.00 L970.00,308.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="549.00" y="312.00" font-size="12" fill="#27354a" text-anchor="end">0</text>
+<path d="M558.00,228.00 L970.00,228.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="549.00" y="232.00" font-size="12" fill="#27354a" text-anchor="end">1</text>
+<path d="M558.00,148.00 L970.00,148.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="549.00" y="152.00" font-size="12" fill="#27354a" text-anchor="end">2</text>
+<path d="M558.00,68.00 L970.00,68.00" fill="none" stroke="#e8edf3" stroke-width="1"/>
+<text x="549.00" y="72.00" font-size="12" fill="#27354a" text-anchor="end">3</text>
+<path d="M764.00,308.00 L764.00,52.00" fill="none" stroke="#7b8797" stroke-width="1.4"/>
+<path d="M558.00,308.00 L970.00,308.00" fill="none" stroke="#7b8797" stroke-width="1.4"/>
+<text x="978.00" y="308.00" font-size="13" fill="#27354a" text-anchor="start">x</text>
+<text x="771.00" y="44.00" font-size="13" fill="#27354a" text-anchor="start">y</text>
+<path d="M558.00,278.57 L695.33,278.57" fill="none" stroke="#2463b5" stroke-width="2"/>
+<path d="M695.33,90.54 L832.67,90.54" fill="none" stroke="#2463b5" stroke-width="2"/>
+<path d="M832.67,278.57 L970.00,278.57" fill="none" stroke="#2463b5" stroke-width="2"/>
+<circle cx="695.33" cy="90.54" r="4.3" fill="white" stroke="#2463b5" stroke-width="1.7"/>
+<circle cx="695.33" cy="278.57" r="4.3" fill="white" stroke="#2463b5" stroke-width="1.7"/>
+<circle cx="695.33" cy="228.00" r="4.3" fill="#2463b5" stroke="#2463b5" stroke-width="1.7"/>
+<circle cx="832.67" cy="90.54" r="4.3" fill="white" stroke="#2463b5" stroke-width="1.7"/>
+<circle cx="832.67" cy="278.57" r="4.3" fill="white" stroke="#2463b5" stroke-width="1.7"/>
+<circle cx="832.67" cy="228.00" r="4.3" fill="#2463b5" stroke="#2463b5" stroke-width="1.7"/>
+<text x="20.00" y="372.00" font-size="12" fill="#68778a" text-anchor="start">新增辅助图｜表达式、端点取值与对应详解一致</text></g></svg>
