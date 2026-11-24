@@ -1,0 +1,1880 @@
+[
+  {
+    "figure": "1-1",
+    "asset": "原书插图/SVG/图1-1.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      21
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "a61d53b88813816d9de5108c0c298047417e6e684a19714882604b147b352cf5",
+    "title": "函数图形与定义域、值域"
+  },
+  {
+    "figure": "1-2",
+    "asset": "原书插图/SVG/图1-2.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      21
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "54123f2bc82a010e1b6ff52cdfaa0fea22e881e04caddc623f46e731502bc032",
+    "title": "常值函数 y=2"
+  },
+  {
+    "figure": "1-3",
+    "asset": "原书插图/SVG/图1-3.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      22
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "f824ea51fcf6df0f883d811d2243a71c6845657bb1cfcdc3ce2093f68143d7bf",
+    "title": "绝对值函数 y=|x|"
+  },
+  {
+    "figure": "1-4",
+    "asset": "原书插图/SVG/图1-4.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      22
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "1d5e8dc8ae6e12b58f4b71942aafc0a3dd4642646ab53ffdb8098ac17124b72c",
+    "title": "符号函数 y=sgn x"
+  },
+  {
+    "figure": "1-5",
+    "asset": "原书插图/SVG/图1-5.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      23
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "0e2bf7b09862a5a0efa735d3d373cb13cf5b4924fbad0a10100be74e43b39cd7",
+    "title": "取整函数 y=[x]"
+  },
+  {
+    "figure": "1-6",
+    "asset": "原书插图/SVG/图1-6.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      23
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "4d4729c84cf66b8ee5083a5877676b3b7113113bb073f5fa438f33dd13fc5b28",
+    "title": "分段函数的两段图形"
+  },
+  {
+    "figure": "1-7",
+    "asset": "原书插图/SVG/图1-7.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      24
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "18f7fc8fcfd7ee1e772b0fd45b0f67519135f775eab7614028218b8391cea0ec",
+    "title": "单调增加函数"
+  },
+  {
+    "figure": "1-8",
+    "asset": "原书插图/SVG/图1-8.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      24
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "1ea2ce5dbfdc2658f79e0b98ca16769ea7ec89b71c41b3b0607b6d154da8d9ae",
+    "title": "单调减少函数"
+  },
+  {
+    "figure": "1-9",
+    "asset": "原书插图/SVG/图1-9.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      25
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "c0d913f8a92cd2604e1bf69a55f9ac35b49447026003e5b5538b7d3d1a4952b6",
+    "title": "二次函数 y=x² 的单调区间"
+  },
+  {
+    "figure": "1-10",
+    "asset": "原书插图/SVG/图1-10.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      25
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "dc974bcc6581c9232657d7024e44fba59052e02ac3f1b89f0c4b21bb40152d6d",
+    "title": "三次函数 y=x³"
+  },
+  {
+    "figure": "1-11",
+    "asset": "原书插图/SVG/图1-11.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      25
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "aab4bc0699f4efdd7384e8f248e8df60f607575feb41b7c04585f95fa52ab936",
+    "title": "偶函数关于纵轴对称"
+  },
+  {
+    "figure": "1-12",
+    "asset": "原书插图/SVG/图1-12.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      25
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "aa2cc589c8bc59ef5ef0af98793501c92fe1befbaad6f416230a01a98f73dbce",
+    "title": "奇函数关于原点对称"
+  },
+  {
+    "figure": "1-13",
+    "asset": "原书插图/SVG/图1-13.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      26
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "a90dbf23d6f8d3b82f215d21e2baf61589396cfa0063743e18d01ee6c150bf33",
+    "title": "周期函数的重复图形"
+  },
+  {
+    "figure": "1-14",
+    "asset": "原书插图/SVG/图1-14.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      27
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "533048e363eb36bebd129447b053f52265db51f0339527e2301c390f21c102d6",
+    "title": "原函数与反函数关于 y=x 对称"
+  },
+  {
+    "figure": "1-15",
+    "asset": "原书插图/SVG/图1-15.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      30
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "e340e5b848e25e01fafe89dc11c03b02b224236bd541a41c6cae3d0cdf7b31c1",
+    "title": "双曲正弦与双曲余弦"
+  },
+  {
+    "figure": "1-16",
+    "asset": "原书插图/SVG/图1-16.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      30
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "e2b7a127bce778cba7bab19fd624b767677b5ca17fa51ec29d9e4d898f726941",
+    "title": "双曲正切的图形与水平渐近线"
+  },
+  {
+    "figure": "1-17",
+    "asset": "原书插图/SVG/图1-17.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      31
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "7a303a0c67c83f75f4a87219ae540ffd7864a0f4d9748dd3b43658cae39a30e3",
+    "title": "反双曲正弦"
+  },
+  {
+    "figure": "1-18",
+    "asset": "原书插图/SVG/图1-18.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      32
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "2fa8c9d985919180dc57ff497a8e185a73f2970407a79f277ef6553bcb232bf0",
+    "title": "反双曲余弦"
+  },
+  {
+    "figure": "1-19",
+    "asset": "原书插图/SVG/图1-19.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      32
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "aa37d344ee016c1883dcedc485bf550aafe1b95a88898039faf2fbfec001dfc2",
+    "title": "反双曲正切"
+  },
+  {
+    "figure": "1-20",
+    "asset": "原书插图/SVG/图1-20.svg",
+    "doc": "第一章-函数与极限/1-1-映射与函数.md",
+    "source_pages": [
+      34
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "6f0eb6347076d3621641a87d5971d82de4d7019a80dffcf45958884aa9eb0f56",
+    "title": "梯形水渠的横断面"
+  },
+  {
+    "figure": "1-21",
+    "asset": "原书插图/SVG/图1-21.svg",
+    "doc": "第一章-函数与极限/1-2-数列的极限.md",
+    "source_pages": [
+      36
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "3fc05b9651c3281dbb41a1a4c5c13ba55688e163e4d11d4ef61251f20e9290d7",
+    "title": "数列在数轴上的表示"
+  },
+  {
+    "figure": "1-22",
+    "asset": "原书插图/SVG/图1-22.svg",
+    "doc": "第一章-函数与极限/1-2-数列的极限.md",
+    "source_pages": [
+      37
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "74152f1028d2d93b56cd18c44b68ca74330c823c0953daf7e90534118d5bce00",
+    "title": "数列极限的 ε 邻域"
+  },
+  {
+    "figure": "1-23",
+    "asset": "原书插图/SVG/图1-23.svg",
+    "doc": "第一章-函数与极限/1-3-函数的极限.md",
+    "source_pages": [
+      44
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "abd222498658d1c8f30bbf8331320b3f59615bbf7c8fc4fb0093cdb1d1f65b0c",
+    "title": "函数极限的 ε–δ 邻域"
+  },
+  {
+    "figure": "1-24",
+    "asset": "原书插图/SVG/图1-24.svg",
+    "doc": "第一章-函数与极限/1-3-函数的极限.md",
+    "source_pages": [
+      46
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "7af049f3796a3bde9dbad416fd8519ca8958147a29d6f673fb3d0d9afb7eaf7a",
+    "title": "左右极限不相等"
+  },
+  {
+    "figure": "1-25",
+    "asset": "原书插图/SVG/图1-25.svg",
+    "doc": "第一章-函数与极限/1-3-函数的极限.md",
+    "source_pages": [
+      47
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "931fc14c5a8e7d066849c863b57d8b62675457fed6f30aa44f7a36529a9007b9",
+    "title": "无穷远处的函数极限与水平渐近线"
+  },
+  {
+    "figure": "1-26",
+    "asset": "原书插图/SVG/图1-26.svg",
+    "doc": "第一章-函数与极限/1-3-函数的极限.md",
+    "source_pages": [
+      49
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "21886bafe53344dfb413313a2a4da14c1aab890b258bf578a9cf45f6d1893f63",
+    "title": "从分段图形读取极限"
+  },
+  {
+    "figure": "1-27",
+    "asset": "原书插图/SVG/图1-27.svg",
+    "doc": "第一章-函数与极限/1-3-函数的极限.md",
+    "source_pages": [
+      49
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "c24a9a5b324293a879e5253378e03bb970b602bb7a9e28470c200fda42ee95e4",
+    "title": "函数值与单侧极限的比较"
+  },
+  {
+    "figure": "1-28",
+    "asset": "原书插图/SVG/图1-28.svg",
+    "doc": "第一章-函数与极限/1-3-函数的极限.md",
+    "source_pages": [
+      49
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "3d6b121cbc562655ac665aa7dd3502fb9faf9f14c14eb026fa70266a781ab1eb",
+    "title": "邻近值与孤立点值的比较"
+  },
+  {
+    "figure": "1-29",
+    "asset": "原书插图/SVG/图1-29.svg",
+    "doc": "第一章-函数与极限/1-4-无穷小与无穷大.md",
+    "source_pages": [
+      51
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "62e08ce9cc38d847991b8f746059a59befa5898f71460e2af172a9b5a413b7ec",
+    "title": "函数 1/(x−1) 的无穷大"
+  },
+  {
+    "figure": "1-30",
+    "asset": "原书插图/SVG/图1-30.svg",
+    "doc": "第一章-函数与极限/1-6-极限存在准则　两个重要极限.md",
+    "source_pages": [
+      62
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "91ef11c0bb3d8e68fa6edfb4942a7ee1780021c7b02709770516be36c7674a65",
+    "title": "单位圆中的正弦、圆弧与正切"
+  },
+  {
+    "figure": "1-31",
+    "asset": "原书插图/SVG/图1-31.svg",
+    "doc": "第一章-函数与极限/1-6-极限存在准则　两个重要极限.md",
+    "source_pages": [
+      63
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "bceb98bf02917ae3ee30c46e6899f6a69ff7bdf0dc4280dcbaae7e2fb8f75abf",
+    "title": "函数 sin x/x 及其零点极限"
+  },
+  {
+    "figure": "1-32",
+    "asset": "原书插图/SVG/图1-32.svg",
+    "doc": "第一章-函数与极限/1-6-极限存在准则　两个重要极限.md",
+    "source_pages": [
+      64
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "fcfaed6e61ab01c9cc82e8398cc989a7d69d5d94d1cb1f3d488362a01a1ac3b5",
+    "title": "有界单调数列的收敛"
+  },
+  {
+    "figure": "1-33",
+    "asset": "原书插图/SVG/图1-33.svg",
+    "doc": "第一章-函数与极限/1-8-函数的连续性与间断点.md",
+    "source_pages": [
+      71
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "4e976911085e5e337fea423fff68eab13a9549b72dccd2c08dbd1d7c45a6f863",
+    "title": "自变量增量与函数增量"
+  },
+  {
+    "figure": "1-34",
+    "asset": "原书插图/SVG/图1-34.svg",
+    "doc": "第一章-函数与极限/1-8-函数的连续性与间断点.md",
+    "source_pages": [
+      74
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "b8f4ea16c53d9efcbae42a6eb99e87a2bdd5618ca8f52edff664e11dfc4a4f8f",
+    "title": "正切函数的无穷间断点"
+  },
+  {
+    "figure": "1-35",
+    "asset": "原书插图/SVG/图1-35.svg",
+    "doc": "第一章-函数与极限/1-8-函数的连续性与间断点.md",
+    "source_pages": [
+      74
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "aa53398a3c29137ca2d7fd88843a44429cf415374ff2ec67c3e75936a29c285f",
+    "title": "函数 sin(1/x) 的振荡间断点"
+  },
+  {
+    "figure": "1-36",
+    "asset": "原书插图/SVG/图1-36.svg",
+    "doc": "第一章-函数与极限/1-8-函数的连续性与间断点.md",
+    "source_pages": [
+      74
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "8aa0554218364d26cec80b4cfe6885277458bf3c4ba76b117c6adf840b73c137",
+    "title": "约分后仍保留的可去间断点"
+  },
+  {
+    "figure": "1-37",
+    "asset": "原书插图/SVG/图1-37.svg",
+    "doc": "第一章-函数与极限/1-8-函数的连续性与间断点.md",
+    "source_pages": [
+      75
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "972bbaf363d122dc55161997c186235aa7073428246d5dd8fd3d461ae97068d4",
+    "title": "改变点值可以消除的间断"
+  },
+  {
+    "figure": "1-38",
+    "asset": "原书插图/SVG/图1-38.svg",
+    "doc": "第一章-函数与极限/1-8-函数的连续性与间断点.md",
+    "source_pages": [
+      75
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "066eebb761b84b7dd9a0f3212986f511a000165deaaa581e4619b630447df276",
+    "title": "左右极限不同的跳跃间断"
+  },
+  {
+    "figure": "1-39",
+    "asset": "原书插图/SVG/图1-39.svg",
+    "doc": "第一章-函数与极限/1-8-函数的连续性与间断点.md",
+    "source_pages": [
+      75
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "304e02a4bf0034937db3b136f8677060719e622540d387656dd9491b6a635d3a",
+    "title": "两种分段函数的图形"
+  },
+  {
+    "figure": "1-40",
+    "asset": "原书插图/SVG/图1-40.svg",
+    "doc": "第一章-函数与极限/1-10-闭区间上连续函数的性质.md",
+    "source_pages": [
+      82
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "28050598ee90c17a4d274e4840368f42f46aa8b5836e2d25fc6b961c498909ef",
+    "title": "闭区间连续函数的最大值与最小值"
+  },
+  {
+    "figure": "1-41",
+    "asset": "原书插图/SVG/图1-41.svg",
+    "doc": "第一章-函数与极限/1-10-闭区间上连续函数的性质.md",
+    "source_pages": [
+      82
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "5255041de22e0299113a2e8726c94a1ceb5c71e52dfc0ec4002a6836c29ed578",
+    "title": "不连续函数可能不取得最值"
+  },
+  {
+    "figure": "1-42",
+    "asset": "原书插图/SVG/图1-42.svg",
+    "doc": "第一章-函数与极限/1-10-闭区间上连续函数的性质.md",
+    "source_pages": [
+      82
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "18b837dc4af40ad9a1cf205a2578e7849fbfe5cedf0ac7fbc9128c6a8aecdfd0",
+    "title": "连续函数的零点存在性"
+  },
+  {
+    "figure": "1-43",
+    "asset": "原书插图/SVG/图1-43.svg",
+    "doc": "第一章-函数与极限/1-10-闭区间上连续函数的性质.md",
+    "source_pages": [
+      83
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "9356b7a2381e6ee88e79c710ba1cb1daf337666c30a8ba06414ca977a98adf51",
+    "title": "连续函数的介值性质"
+  },
+  {
+    "figure": "2-1",
+    "asset": "原书插图/SVG/图2-1.svg",
+    "doc": "第二章-导数与微分/2-1-导数概念.md",
+    "source_pages": [
+      89
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "594ac4e2a910886d7d686e66d940e3ec1f8737416d0401b70c37e0c06d851125",
+    "title": "割线趋于切线"
+  },
+  {
+    "figure": "2-2",
+    "asset": "原书插图/SVG/图2-2.svg",
+    "doc": "第二章-导数与微分/2-1-导数概念.md",
+    "source_pages": [
+      89
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "3ffbddc1bf215d17341a6c1b179a215d0580b356c456a4f3d39133fc284ee312",
+    "title": "割线斜率与差商"
+  },
+  {
+    "figure": "2-3",
+    "asset": "原书插图/SVG/图2-3.svg",
+    "doc": "第二章-导数与微分/2-1-导数概念.md",
+    "source_pages": [
+      95
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "57f005e2e15b1ea4770c050991ebffeaf4dd9b2a10f14f257fcb867e334b4dec",
+    "title": "导数与切线倾角"
+  },
+  {
+    "figure": "2-4",
+    "asset": "原书插图/SVG/图2-4.svg",
+    "doc": "第二章-导数与微分/2-1-导数概念.md",
+    "source_pages": [
+      97
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "34bf9801bc65273bf7b96693e23af982aeece31d083418024bae46ec5b5e92d4",
+    "title": "立方根函数在原点的竖直切线"
+  },
+  {
+    "figure": "2-5",
+    "asset": "原书插图/SVG/图2-5.svg",
+    "doc": "第二章-导数与微分/2-1-导数概念.md",
+    "source_pages": [
+      97
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "24d2ae1b2b3b39cc3844412751b55d819b0f344f94217423cca5d374300266cf",
+    "title": "绝对值函数在原点的尖点"
+  },
+  {
+    "figure": "2-6",
+    "asset": "原书插图/SVG/图2-6.svg",
+    "doc": "第二章-导数与微分/2-4-隐函数及由参数方程所确定的函数的导数　相关变化率.md",
+    "source_pages": [
+      117
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "3e54f78ee3d666e1f824868a74b9f00ded8d05327f08b1dd4d10c634b3ad0f34",
+    "title": "椭圆上的切线"
+  },
+  {
+    "figure": "2-7",
+    "asset": "原书插图/SVG/图2-7.svg",
+    "doc": "第二章-导数与微分/2-4-隐函数及由参数方程所确定的函数的导数　相关变化率.md",
+    "source_pages": [
+      119
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "85e6873d574706cdeba51dda9b7999f5973f0d3f2aac5dcef69ff318223382f5",
+    "title": "抛体运动与初速度分解"
+  },
+  {
+    "figure": "2-8",
+    "asset": "原书插图/SVG/图2-8.svg",
+    "doc": "第二章-导数与微分/2-4-隐函数及由参数方程所确定的函数的导数　相关变化率.md",
+    "source_pages": [
+      120
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "1353d3f587d3a4ca07d80487230725c25fe08197dcd286aca8fe5614551708ba",
+    "title": "椭圆参数点及其切线"
+  },
+  {
+    "figure": "2-9",
+    "asset": "原书插图/SVG/图2-9.svg",
+    "doc": "第二章-导数与微分/2-4-隐函数及由参数方程所确定的函数的导数　相关变化率.md",
+    "source_pages": [
+      122
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "67efd72759cc1ec9359ad98f69a9e90e682bbdc6d77df24aeed88a6f4111af9c",
+    "title": "摆线的参数图形"
+  },
+  {
+    "figure": "2-10",
+    "asset": "原书插图/SVG/图2-10.svg",
+    "doc": "第二章-导数与微分/2-5-函数的微分.md",
+    "source_pages": [
+      124
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "75d207bed2c024e13f903e0135708d5f60653eacd95728397b885ffae67686f7",
+    "title": "正方形面积增量的两部分"
+  },
+  {
+    "figure": "2-11",
+    "asset": "原书插图/SVG/图2-11.svg",
+    "doc": "第二章-导数与微分/2-5-函数的微分.md",
+    "source_pages": [
+      127
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "477ad3a1982fae7449b8ade8e7d96be04c54160b1212a2e976f155583a433df4",
+    "title": "微分 dy 与实际增量 Δy"
+  },
+  {
+    "figure": "2-12",
+    "asset": "原书插图/SVG/图2-12.svg",
+    "doc": "第二章-导数与微分/2-5-函数的微分.md",
+    "source_pages": [
+      134,
+      135
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "abadd217dac877ddfa85af4e8735d494f7360d57844eb41d2d880991ace1adef",
+    "title": "四种曲线上的微分与增量"
+  },
+  {
+    "figure": "2-13",
+    "asset": "原书插图/SVG/图2-13.svg",
+    "doc": "第二章-导数与微分/2-5-函数的微分.md",
+    "source_pages": [
+      135
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "c85d5102a23f8eca5b9106eb4d9fe8bb9137bfc5c96c6e4fa1cbd0c5bb39388e",
+    "title": "悬挂电缆的跨度与弧垂"
+  },
+  {
+    "figure": "2-14",
+    "asset": "原书插图/SVG/图2-14.svg",
+    "doc": "第二章-导数与微分/2-5-函数的微分.md",
+    "source_pages": [
+      135
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "c55020397fc83cde956191ca7ad3c3115aba1f435b62dac7bd77c92ee58974b9",
+    "title": "扇形半径与圆心角"
+  },
+  {
+    "figure": "2-15",
+    "asset": "原书插图/SVG/图2-15.svg",
+    "doc": "第二章-导数与微分/2-6-总习题2.md",
+    "source_pages": [
+      136
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "08878cc91a200f28204e91cefdcca34db48812021f9f9bdb234f130695d3950e",
+    "title": "由弦长间接测量圆心角"
+  },
+  {
+    "figure": "2-16",
+    "asset": "原书插图/SVG/图2-16.svg",
+    "doc": "第二章-导数与微分/2-6-总习题2.md",
+    "source_pages": [
+      137
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "aabbea81312b0af2aa715ce9f3b768159e21f12cbe0fc374421b5eb4da7ee216",
+    "title": "飞机着陆的下降曲线"
+  },
+  {
+    "figure": "3-1",
+    "asset": "原书插图/SVG/图3-1.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-1-微分中值定理.md",
+    "source_pages": [
+      139
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "488f0b867d2a876c7469f16968f81f811f44ea169fa67d850e2304bdf7079dee",
+    "title": "罗尔定理中的水平切线"
+  },
+  {
+    "figure": "3-2",
+    "asset": "原书插图/SVG/图3-2.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-1-微分中值定理.md",
+    "source_pages": [
+      141
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "793c7fcf86b9b3ec87e4c7011cc0ae9d90894e4adc10c56d7f2c6d8ff4895efd",
+    "title": "拉格朗日中值定理中的平行切线"
+  },
+  {
+    "figure": "3-3",
+    "asset": "原书插图/SVG/图3-3.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-3-泰勒公式.md",
+    "source_pages": [
+      156
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "59c4f06d51f1e9483215622a9e85d4af8e816005109fbed4ab6fbbe1d3db7918",
+    "title": "正弦函数与麦克劳林多项式"
+  },
+  {
+    "figure": "3-4",
+    "asset": "原书插图/SVG/图3-4.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-4-函数的单调性与曲线的凹凸性.md",
+    "source_pages": [
+      158
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "b9a276151d5b30570b14b9623e68daad5b0dd82686ebf00832fff94be8f4f90c",
+    "title": "导数符号与函数单调性"
+  },
+  {
+    "figure": "3-5",
+    "asset": "原书插图/SVG/图3-5.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-4-函数的单调性与曲线的凹凸性.md",
+    "source_pages": [
+      159
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "f2d7c1b8e7a107f20e9a0caba3e115d695eeea92bbfcea2d32055592e262fddc",
+    "title": "函数 y=∛(x²) 的单调性与尖点"
+  },
+  {
+    "figure": "3-6",
+    "asset": "原书插图/SVG/图3-6.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-4-函数的单调性与曲线的凹凸性.md",
+    "source_pages": [
+      160
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "014b0a82cc48662077f2b4a4e09a221a61b33c8f7a39529317cebdcc918508ba",
+    "title": "驻点两侧的增减变化"
+  },
+  {
+    "figure": "3-7",
+    "asset": "原书插图/SVG/图3-7.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-4-函数的单调性与曲线的凹凸性.md",
+    "source_pages": [
+      161
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "22e77263b209f55525d207bffa279b4f311ee5bf7aed511edc84732b83d7d2e7",
+    "title": "上升曲线的不同弯曲方向"
+  },
+  {
+    "figure": "3-8",
+    "asset": "原书插图/SVG/图3-8.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-4-函数的单调性与曲线的凹凸性.md",
+    "source_pages": [
+      161
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "99d3f54e042b96006018634c92d9efa0437d5e283cb0cd001f79deb099ea7f9c",
+    "title": "曲线与弦的位置关系"
+  },
+  {
+    "figure": "3-9",
+    "asset": "原书插图/SVG/图3-9.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-4-函数的单调性与曲线的凹凸性.md",
+    "source_pages": [
+      164
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "ad4049208eb727314c3ee79d7b6fd0a4732723b7c35e4e373f88caee9936f714",
+    "title": "由函数图形判断斜率符号"
+  },
+  {
+    "figure": "3-10",
+    "asset": "原书插图/SVG/图3-10.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-4-函数的单调性与曲线的凹凸性.md",
+    "source_pages": [
+      164
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "e19b38dd7cea11e5888f0c620cfd7db772c28e263b3222490425d0ac40d4d90c",
+    "title": "导函数图形的四个候选项"
+  },
+  {
+    "figure": "3-11",
+    "asset": "原书插图/SVG/图3-11.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      166
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "a3dc69589355487bbb424c426a62fcfe3b65afe9cd9094fc35aa8b3842288f19",
+    "title": "极大值、极小值与驻点"
+  },
+  {
+    "figure": "3-12",
+    "asset": "原书插图/SVG/图3-12.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      168
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "79b9aadb3a122b66c1ed42dc001c12543ec4ead07c7cf0974561cb4579e7e9a3",
+    "title": "一阶导数变号的四种情形"
+  },
+  {
+    "figure": "3-13",
+    "asset": "原书插图/SVG/图3-13.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      169
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "e26b8cc7aff0da8022f35d2790c61dc11028a5ce77136db21a378a82f7bf28b6",
+    "title": "驻点处不一定取得极值"
+  },
+  {
+    "figure": "3-14",
+    "asset": "原书插图/SVG/图3-14.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      170
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "44813077f8fa2a57258a55ca2b0c06f02e2a62e141b419e7c32d6db31e7ed076",
+    "title": "铁路与公路的运输路线"
+  },
+  {
+    "figure": "3-15",
+    "asset": "原书插图/SVG/图3-15.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      171
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "81d78b000dbb5b0c4781e070eab2762a6a81ea9850d43773aebf1ed71b7099be",
+    "title": "唯一驻点处的最值"
+  },
+  {
+    "figure": "3-16",
+    "asset": "原书插图/SVG/图3-16.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      172
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "3ec8d9d4601afafa84b467ab3f8fcb7e8e1007e596a9fd4914e0bf794525a391",
+    "title": "光线折射的最短时间路径"
+  },
+  {
+    "figure": "3-17",
+    "asset": "原书插图/SVG/图3-17.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      173
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "ec35dae230d68d28e02689f63aa93b0db59a3248b585d59741a2f8ff5f048854",
+    "title": "圆木内接矩形梁的截面"
+  },
+  {
+    "figure": "3-18",
+    "asset": "原书插图/SVG/图3-18.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      174
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "be3affc2e8354ea5407ba96ebbd5e163a2de686cbfe960b43370d924b3bb8cb0",
+    "title": "成本曲线与收入曲线"
+  },
+  {
+    "figure": "3-19",
+    "asset": "原书插图/SVG/图3-19.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      175
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "44deca31724e0b8829c8f0e0c00b2e642c2e0f8fb65e9b5d971cf41d5a51ada3",
+    "title": "矩形加半圆的防空洞截面"
+  },
+  {
+    "figure": "3-20",
+    "asset": "原书插图/SVG/图3-20.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      175
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "ec045f2a6c0cc7fa217e074e274cbfe1b17864218afa9bf7cc5105400cd9a29d",
+    "title": "斜向拉力与物体受力"
+  },
+  {
+    "figure": "3-21",
+    "asset": "原书插图/SVG/图3-21.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      175
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "4a96a2131636f0b75a5d9d994afcd8d89796277359fa761738a6f695468d66b5",
+    "title": "含自重杠杆的力矩"
+  },
+  {
+    "figure": "3-22",
+    "asset": "原书插图/SVG/图3-22.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      175
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "bf0182efa4e186640bec36d8e16ac0dbc97eca26b78749318d291fd054729297",
+    "title": "扇形围成圆锥的底面与母线"
+  },
+  {
+    "figure": "3-23",
+    "asset": "原书插图/SVG/图3-23.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-5-函数的极值与最大值最小值.md",
+    "source_pages": [
+      176
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "9e5d974659f25267bd8ad2e59a9e3f26c563fb2b78952027b61264476d90a620",
+    "title": "吊臂避开屋架的几何关系"
+  },
+  {
+    "figure": "3-24",
+    "asset": "原书插图/SVG/图3-24.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-6-函数图形的描绘.md",
+    "source_pages": [
+      178
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "7350065ef0e86bf71c107c4fd9ed0ba8e7aaa60ffcbc8a408489d6ef201a3209",
+    "title": "三次多项式的作图分析"
+  },
+  {
+    "figure": "3-25",
+    "asset": "原书插图/SVG/图3-25.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-6-函数图形的描绘.md",
+    "source_pages": [
+      179
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "3b53627471ab0cdad9cb26f171a5467f5ffe8977329d0766cd48650d0369e6e2",
+    "title": "正态概率密度曲线"
+  },
+  {
+    "figure": "3-26",
+    "asset": "原书插图/SVG/图3-26.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-6-函数图形的描绘.md",
+    "source_pages": [
+      180
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "1a7ddfed9645dd6d7ed89e2e4d7f9161c499d1c38a25e2af6799dfd6432c819d",
+    "title": "有理函数的渐近线与分支"
+  },
+  {
+    "figure": "3-27",
+    "asset": "原书插图/SVG/图3-27.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      181
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "ad8328ab8aad098d373097dab3fc43439bd683da89baa8d853f09d03d70ccfe1",
+    "title": "弧长与横、纵坐标增量"
+  },
+  {
+    "figure": "3-28",
+    "asset": "原书插图/SVG/图3-28.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      183
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "d28ecceab1ac5de9fb22cd7d0af76a6614ca4167b901a393898393bf35d2cc4a",
+    "title": "较平直弧段的切线转角"
+  },
+  {
+    "figure": "3-29",
+    "asset": "原书插图/SVG/图3-29.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      183
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "e8ba8a62fd7941b9d852fb0e847cab76a517e1fee0d8c89e185cc1d007ca56ce",
+    "title": "较弯曲弧段的切线转角"
+  },
+  {
+    "figure": "3-30",
+    "asset": "原书插图/SVG/图3-30.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      183
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "ca988501539bc67c11d7c14ee28d70786ccc33003fc9f91dd9f96febe59dc09b",
+    "title": "弧长增量与切线倾角增量"
+  },
+  {
+    "figure": "3-31",
+    "asset": "原书插图/SVG/图3-31.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      184
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "e4c93252bbbf558fb1ed3f4f99b82c0877eaaade3fb77175dbe0d87d184cb695",
+    "title": "直线的切线倾角与曲率"
+  },
+  {
+    "figure": "3-32",
+    "asset": "原书插图/SVG/图3-32.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      184
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "cf48a581192e27c04aee32e026956fe9037720fe71db8f9afed15937ba2c2691",
+    "title": "圆弧长度与圆心角"
+  },
+  {
+    "figure": "3-33",
+    "asset": "原书插图/SVG/图3-33.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      186
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "2f228d3e9ca93dc997c8bc73a248def529e2497efae5502d23155278e3f7332e",
+    "title": "曲率圆、曲率中心与曲率半径"
+  },
+  {
+    "figure": "3-34",
+    "asset": "原书插图/SVG/图3-34.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      186
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "ce9470daf012506c019c7b5dcfb9da8615c01aa3941ae4424320c37a14ea0455",
+    "title": "砂轮与抛物线工件的接触"
+  },
+  {
+    "figure": "3-35",
+    "asset": "原书插图/SVG/图3-35.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      188
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "830584112530295f281983cca8041614c4f39c7a35ce5f55b7febc38d0515f1d",
+    "title": "曲率中心轨迹与渐屈线"
+  },
+  {
+    "figure": "3-36",
+    "asset": "原书插图/SVG/图3-36.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      189
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "4428ad09b307627cca2ad0cef96cb6b69e8e7eb04a644ce301fa864b2e1f44f9",
+    "title": "摆线及其渐屈线"
+  },
+  {
+    "figure": "3-37",
+    "asset": "原书插图/SVG/图3-37.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-7-曲率.md",
+    "source_pages": [
+      189
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "8a3a54dab588bb7a2bf3b2643d8251582083e2aaa898dd76b72a70861ff48cde",
+    "title": "抛物线拱桥的跨度与矢高"
+  },
+  {
+    "figure": "3-38",
+    "asset": "原书插图/SVG/图3-38.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-8-方程的近似解.md",
+    "source_pages": [
+      192
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "9310a3c4f41d21ff7d054530ee78b2c354be07318fc08e91adf8cd4ee2e25699",
+    "title": "隔离区间内的四种曲线形态"
+  },
+  {
+    "figure": "3-39",
+    "asset": "原书插图/SVG/图3-39.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-8-方程的近似解.md",
+    "source_pages": [
+      192
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "1052ed325419531f9d20c4d40f7d933842ed3378a9c02af8b816adf1b9bd1d05",
+    "title": "牛顿切线法的逐次逼近"
+  },
+  {
+    "figure": "3-40",
+    "asset": "原书插图/SVG/图3-40.svg",
+    "doc": "第三章-微分中值定理与导数的应用/3-8-方程的近似解.md",
+    "source_pages": [
+      193
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "1bb8bdb526306e07e218221182c4548a33a7b72f26b4443c254fa94d9d7b1499",
+    "title": "割线法的逐次逼近"
+  },
+  {
+    "figure": "4-1",
+    "asset": "原书插图/SVG/图4-1.svg",
+    "doc": "第四章-不定积分/4-1-不定积分的概念与性质.md",
+    "source_pages": [
+      199
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "afddf65231b4d4bafa7cfd74128c41e5e5d27975f9962d8b23ebd0e19f0fc0d9",
+    "title": "原函数族与指定点的积分曲线"
+  },
+  {
+    "figure": "4-2",
+    "asset": "原书插图/SVG/图4-2.svg",
+    "doc": "第四章-不定积分/4-1-不定积分的概念与性质.md",
+    "source_pages": [
+      200
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "01d701814de478f2297a4880e831655ba84070284845923b1bc05a4c450e05b2",
+    "title": "由速度恢复位置函数"
+  },
+  {
+    "figure": "4-3",
+    "asset": "原书插图/SVG/图4-3.svg",
+    "doc": "第四章-不定积分/4-2-换元积分法.md",
+    "source_pages": [
+      214
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "584ff9cc2bd4083969c9a1592c07a86eb5726971a2b51db25657c4d5ae11acc3",
+    "title": "根式 √(x²+a²) 的辅助三角形"
+  },
+  {
+    "figure": "4-4",
+    "asset": "原书插图/SVG/图4-4.svg",
+    "doc": "第四章-不定积分/4-2-换元积分法.md",
+    "source_pages": [
+      215
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "dd17aee7f7e982cd576a5abf964b9fc973e6cead2a0c654c7468df8f3466e642",
+    "title": "根式 √(x²−a²) 的辅助三角形"
+  },
+  {
+    "figure": "4-5",
+    "asset": "原书插图/SVG/图4-5.svg",
+    "doc": "第四章-不定积分/4-2-换元积分法.md",
+    "source_pages": [
+      219
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "1ff200f6a401b1d02e5c7ad0fc7668583c3382db6912b3a208fa4609f7543e99",
+    "title": "配方后根式的辅助三角形"
+  },
+  {
+    "figure": "5-1",
+    "asset": "原书插图/SVG/图5-1.svg",
+    "doc": "第五章-定积分/5-1-定积分的概念与性质.md",
+    "source_pages": [
+      236
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "7f49c741cacb22fb7fd45bca4655642760b3694e32468c3e88ea29b7ff5fc21e",
+    "title": "曲边梯形的分割与面积和"
+  },
+  {
+    "figure": "5-2",
+    "asset": "原书插图/SVG/图5-2.svg",
+    "doc": "第五章-定积分/5-1-定积分的概念与性质.md",
+    "source_pages": [
+      240
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "3075127a762bf04a072fdf8431b8af9910c286fe73fd594990e9b34136b76e25",
+    "title": "定积分的有向面积"
+  },
+  {
+    "figure": "5-3",
+    "asset": "原书插图/SVG/图5-3.svg",
+    "doc": "第五章-定积分/5-1-定积分的概念与性质.md",
+    "source_pages": [
+      242
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "b4133584e7dba9e904c52d1c2aaceee85afcc7d9852e39ca5a99b0ad0535c09f",
+    "title": "矩形法的面积近似"
+  },
+  {
+    "figure": "5-4",
+    "asset": "原书插图/SVG/图5-4.svg",
+    "doc": "第五章-定积分/5-1-定积分的概念与性质.md",
+    "source_pages": [
+      243
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "c23b48a0a795d284ba707cead53f12d45ff1d0d219228c529ce1c03dfe6ed1ed",
+    "title": "梯形法与抛物线法的近似"
+  },
+  {
+    "figure": "5-5",
+    "asset": "原书插图/SVG/图5-5.svg",
+    "doc": "第五章-定积分/5-2-微积分基本公式.md",
+    "source_pages": [
+      247
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "867accb85e97f8e733247aece4b1c64da9310d56622738245c344e97f1f5bd53",
+    "title": "积分中值定理与平均高度"
+  },
+  {
+    "figure": "5-6",
+    "asset": "原书插图/SVG/图5-6.svg",
+    "doc": "第五章-定积分/5-2-微积分基本公式.md",
+    "source_pages": [
+      250
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "c6b80e1979d2f99fd5e119714355bd5a3656c139cb9c40606d2fb0544032335f",
+    "title": "变上限积分的增量"
+  },
+  {
+    "figure": "5-7",
+    "asset": "原书插图/SVG/图5-7.svg",
+    "doc": "第五章-定积分/5-2-微积分基本公式.md",
+    "source_pages": [
+      253
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "736c41bd00cf60e166020d6c6fe3013164d33a599b1fa2d02ade485245d5d899",
+    "title": "正弦曲线下的面积"
+  },
+  {
+    "figure": "5-8",
+    "asset": "原书插图/SVG/图5-8.svg",
+    "doc": "第五章-定积分/5-2-微积分基本公式.md",
+    "source_pages": [
+      255
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "f3bee3d03ff543aa612e8ea1afe88101d08fd1937591284a3e00b102a19e84b0",
+    "title": "由图形判断导数积分的正负"
+  },
+  {
+    "figure": "5-9",
+    "asset": "原书插图/SVG/图5-9.svg",
+    "doc": "第五章-定积分/5-4-反常积分.md",
+    "source_pages": [
+      268
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "14bc377d47af9b56806f672ebd4487fd43eb43ff7438d803bec55ebf9c222842",
+    "title": "无限延伸区域的有限面积"
+  },
+  {
+    "figure": "5-10",
+    "asset": "原书插图/SVG/图5-10.svg",
+    "doc": "第五章-定积分/5-4-反常积分.md",
+    "source_pages": [
+      271
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "d6d58b5af88b8743a332ec1bbd6e6182d7acd8e23c2ed2bd14f8cda91cb3f007",
+    "title": "有限端点处的无界被积函数"
+  },
+  {
+    "figure": "5-11",
+    "asset": "原书插图/SVG/图5-11.svg",
+    "doc": "第五章-定积分/5-5-反常积分的审敛法　Γ函数.md",
+    "source_pages": [
+      278
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "77e71445fb06a068cdb01669b26c887c20813b53ae24819e9cd469e13a535858",
+    "title": "Γ 函数的图形"
+  },
+  {
+    "figure": "6-1",
+    "asset": "原书插图/SVG/图6-1.svg",
+    "doc": "第六章-定积分的应用/6-1-定积分的元素法.md",
+    "source_pages": [
+      285
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "c113ba75a6eb228191943fedc71ee560f15b93d344d4a464a8405e631cfb51fb",
+    "title": "面积元素与竖直薄条"
+  },
+  {
+    "figure": "6-2",
+    "asset": "原书插图/SVG/图6-2.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      286
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "f394da6a781ee7532d9eafbbe532923df2404f5c96da2673a005a06344fe89da",
+    "title": "两条抛物线围成的面积"
+  },
+  {
+    "figure": "6-3",
+    "asset": "原书插图/SVG/图6-3.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      287
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "5a9e3595f18c1a17a450e9ed6b1fb303d385a183ec595abcad7f270cacb84ce1",
+    "title": "抛物线与直线间的水平薄条"
+  },
+  {
+    "figure": "6-4",
+    "asset": "原书插图/SVG/图6-4.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      288
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "7c830971535466b94c871b40501d5d5145456480cd14fc1b515c0f916c864b43",
+    "title": "椭圆的面积与参数坐标"
+  },
+  {
+    "figure": "6-5",
+    "asset": "原书插图/SVG/图6-5.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      288
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "8d0c9ea9ea37875c1ea0696a6b41471900178dc89337e8716cad46aa58be1ee4",
+    "title": "极坐标面积的微扇形"
+  },
+  {
+    "figure": "6-6",
+    "asset": "原书插图/SVG/图6-6.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      289
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "b077c7a140ad71861a69ce97b5ba6815a88c349d2500427d2644871c0e3389b9",
+    "title": "阿基米德螺线围成的面积"
+  },
+  {
+    "figure": "6-7",
+    "asset": "原书插图/SVG/图6-7.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      289
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "7f4012ad1fb5762f161f670f2214979d09a9422e079932f7b71056ee9fcdf7c0",
+    "title": "心形线围成的面积"
+  },
+  {
+    "figure": "6-8",
+    "asset": "原书插图/SVG/图6-8.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      290
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "00bb08a5f41e1b29a7d3463ba52189e97c3207a29cc25f367c647484aade9b25",
+    "title": "绕横轴旋转的薄圆盘"
+  },
+  {
+    "figure": "6-9",
+    "asset": "原书插图/SVG/图6-9.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      290
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "79c68071870b1b31ae6d49b709f24a054f93a8f0684fa384023ce9396acb62c5",
+    "title": "圆锥的圆盘截面"
+  },
+  {
+    "figure": "6-10",
+    "asset": "原书插图/SVG/图6-10.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      291
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "bdc3a74130ab8fb92d5195d7a8e673ca75e1414db1e481502f48de5305bd6f71",
+    "title": "旋转椭球体的圆盘截面"
+  },
+  {
+    "figure": "6-11",
+    "asset": "原书插图/SVG/图6-11.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      292
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "2996dd9ef66742231fd7ffb1bfe664cfae1da0dd28230b2a229e66a2bc98222c",
+    "title": "绕纵轴旋转的水平薄片"
+  },
+  {
+    "figure": "6-12",
+    "asset": "原书插图/SVG/图6-12.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      292
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "23eaf2eec6bd9b270b464f0b656d7029cb4a39fbd06541210408171016a503ad",
+    "title": "摆线区域绕纵轴旋转"
+  },
+  {
+    "figure": "6-13",
+    "asset": "原书插图/SVG/图6-13.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      293
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "50878425b64e36f53507152dfd5e3685eb167c348da930fc170eaa456149129b",
+    "title": "已知截面积的立体薄片"
+  },
+  {
+    "figure": "6-14",
+    "asset": "原书插图/SVG/图6-14.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      293
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "a547590b66b2260c3c87607a8c78d1ae51e830103eaa0f2746f2e01d32050793",
+    "title": "圆形底面与截面位置"
+  },
+  {
+    "figure": "6-15",
+    "asset": "原书插图/SVG/图6-15.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      293
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "cfd8b2d3de4a36c1a492e7a5feacd9d383e4c4e9b662af780a4997f3a4cf4176",
+    "title": "正劈锥的三角形截面"
+  },
+  {
+    "figure": "6-16",
+    "asset": "原书插图/SVG/图6-16.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      294
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "f18f5e063e2f09bbbd906aa7e63766ac2be95eca99506bad513c54890b6672c0",
+    "title": "用折线长度逼近弧长"
+  },
+  {
+    "figure": "6-17",
+    "asset": "原书插图/SVG/图6-17.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      295
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "229412850ee3ab0b729fe6d4cc7eb712d6856e897879502624ef5bc48bbd2237",
+    "title": "幂函数曲线的一段弧"
+  },
+  {
+    "figure": "6-18",
+    "asset": "原书插图/SVG/图6-18.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      295
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "6b194d616a0249d43b31c375b64303df3eda2d18c82ca57b1160eab4169feac5",
+    "title": "摆线一拱的弧长"
+  },
+  {
+    "figure": "6-19",
+    "asset": "原书插图/SVG/图6-19.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      296
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "67e3fcb458bb9a28dc3241f844d077085c56084c54ccb6d5ca0f1fd1effcdbdc",
+    "title": "阿基米德螺线的一段弧"
+  },
+  {
+    "figure": "6-20",
+    "asset": "原书插图/SVG/图6-20.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      296
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "1244177749a9ac060addf945c04e49c4c59e0d766ab1efcdd6b6e36103470130",
+    "title": "四组曲线围成的阴影面积"
+  },
+  {
+    "figure": "6-21",
+    "asset": "原书插图/SVG/图6-21.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      297
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "9fbd9d9d0ab4b30e87bfadb47324e1c60d628d4a1f6db66d4118ff8dcee56aee",
+    "title": "对数曲线与可移动的面积分界"
+  },
+  {
+    "figure": "6-22",
+    "asset": "原书插图/SVG/图6-22.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      297
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "8e6bd6e1659752ae92376670a8bb483a5503b4f41c2cdef3b596cec20042af44",
+    "title": "星形线区域绕横轴旋转"
+  },
+  {
+    "figure": "6-23",
+    "asset": "原书插图/SVG/图6-23.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      297
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "e07c678762fc1edfe2389446639880504a5769ecce3be080b7c406d5879bea24",
+    "title": "球缺的高度与水平截面"
+  },
+  {
+    "figure": "6-24",
+    "asset": "原书插图/SVG/图6-24.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      298
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "b543cb15f71536f63f224a5bdfb814a13c67dfb2171dcbae9c76381f28bee70a",
+    "title": "圆形底面上的等边三角形截面"
+  },
+  {
+    "figure": "6-25",
+    "asset": "原书插图/SVG/图6-25.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      298
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "889fd1a15a9daad70b64a47e26a91ffccec1771be217c10a240bd07160db0ee2",
+    "title": "抛物线下方的两个旋转区域"
+  },
+  {
+    "figure": "6-26",
+    "asset": "原书插图/SVG/图6-26.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      299
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "23ddb489026ecc706d8acaa9e7adcd36d355783e57ddfeeb2e9aff2c7599d86e",
+    "title": "星形线的全长"
+  },
+  {
+    "figure": "6-27",
+    "asset": "原书插图/SVG/图6-27.svg",
+    "doc": "第六章-定积分的应用/6-2-定积分在几何学上的应用.md",
+    "source_pages": [
+      299
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "ca778f454010975e5ff3127c9520645bad0aef4989c8348d4108b91b120498b0",
+    "title": "圆的渐伸线与展开的切线"
+  },
+  {
+    "figure": "6-28",
+    "asset": "原书插图/SVG/图6-28.svg",
+    "doc": "第六章-定积分的应用/6-3-定积分在物理学上的应用.md",
+    "source_pages": [
+      299
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "853661025ec1c4b5f23d3eea633eae961c46ab3109aacac856985c221d17284f",
+    "title": "点电荷沿径向移动的功"
+  },
+  {
+    "figure": "6-29",
+    "asset": "原书插图/SVG/图6-29.svg",
+    "doc": "第六章-定积分的应用/6-3-定积分在物理学上的应用.md",
+    "source_pages": [
+      300
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "34cf00865702c228937c325c82afdad7a67d2ab279879668dc3701d478e20efc",
+    "title": "气体膨胀推动活塞的功"
+  },
+  {
+    "figure": "6-30",
+    "asset": "原书插图/SVG/图6-30.svg",
+    "doc": "第六章-定积分的应用/6-3-定积分在物理学上的应用.md",
+    "source_pages": [
+      301
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "f32969004763b5686c9d7e0205749c6ae70ed05cd000d36268922616ff771d0d",
+    "title": "圆柱桶抽水的水平薄层"
+  },
+  {
+    "figure": "6-31",
+    "asset": "原书插图/SVG/图6-31.svg",
+    "doc": "第六章-定积分的应用/6-3-定积分在物理学上的应用.md",
+    "source_pages": [
+      301
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "6e81da6037b11d52a8f2a5aa877f36fa8330087c9a14d07ae8792d303b9f4b50",
+    "title": "半桶水对圆形端面的压力"
+  },
+  {
+    "figure": "6-32",
+    "asset": "原书插图/SVG/图6-32.svg",
+    "doc": "第六章-定积分的应用/6-3-定积分在物理学上的应用.md",
+    "source_pages": [
+      302
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "90bf0ce0c7536a02aafc3593975075e80d96264d4dc87c2778084f2edabf5e9b",
+    "title": "细直棒对垂直平分线上质点的引力"
+  },
+  {
+    "figure": "6-33",
+    "asset": "原书插图/SVG/图6-33.svg",
+    "doc": "第六章-定积分的应用/6-4-总习题6.md",
+    "source_pages": [
+      304
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "9eb5a9858a95eee925d9b9b08016a71237035da097121703851744389ff3362b",
+    "title": "细棒与延长线上的质点"
+  },
+  {
+    "figure": "6-34",
+    "asset": "原书插图/SVG/图6-34.svg",
+    "doc": "第六章-定积分的应用/6-4-总习题6.md",
+    "source_pages": [
+      304
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "aa00f526b5fe4c7823148ce9a602042b8b235e21fbead98762634d68fbbb6084",
+    "title": "球体钻孔后剩余环体的高度"
+  },
+  {
+    "figure": "6-35",
+    "asset": "原书插图/SVG/图6-35.svg",
+    "doc": "第六章-定积分的应用/6-4-总习题6.md",
+    "source_pages": [
+      305
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "cd36a5a9e979f5c33106ccfb0a189256fbb14f03f1bf398d9a012e64b5a97ce8",
+    "title": "三条曲线间的等面积条件"
+  },
+  {
+    "figure": "7-1",
+    "asset": "原书插图/SVG/图7-1.svg",
+    "doc": "第七章-微分方程/7-2-可分离变量的微分方程.md",
+    "source_pages": [
+      314
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "0956f241eba41a83a8cc84c2b94623023e0315fb2127957f3f36d7278d95f6d1",
+    "title": "放射性元素含量的指数衰减"
+  },
+  {
+    "figure": "7-2",
+    "asset": "原书插图/SVG/图7-2.svg",
+    "doc": "第七章-微分方程/7-2-可分离变量的微分方程.md",
+    "source_pages": [
+      315
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "773f8090599f2e593f04360f2678847a55ad82228a9adfa6d17a1c542da7919b",
+    "title": "降落伞下落的重力与阻力"
+  },
+  {
+    "figure": "7-3",
+    "asset": "原书插图/SVG/图7-3.svg",
+    "doc": "第七章-微分方程/7-2-可分离变量的微分方程.md",
+    "source_pages": [
+      316
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "414b93069b327e29628b615c16d9ce81729d356066b5f2edf1a5db9401ee7aba",
+    "title": "半球水槽中的水深与水平截面"
+  },
+  {
+    "figure": "7-4",
+    "asset": "原书插图/SVG/图7-4.svg",
+    "doc": "第七章-微分方程/7-3-齐次方程.md",
+    "source_pages": [
+      320
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "7d99e17764a6439bf12efac6ebfdc08a891b66ede41cb8e5b0348a6d13ba5af2",
+    "title": "聚光镜的反射光路"
+  },
+  {
+    "figure": "7-5",
+    "asset": "原书插图/SVG/图7-5.svg",
+    "doc": "第七章-微分方程/7-4-一阶线性微分方程.md",
+    "source_pages": [
+      326
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "7f979b32bd6c2d971c3a891746b9eaf04fe5b4391d2f5321156951e8272e584b",
+    "title": "电阻与电感串联电路"
+  },
+  {
+    "figure": "7-6",
+    "asset": "原书插图/SVG/图7-6.svg",
+    "doc": "第七章-微分方程/7-5-可降阶的高阶微分方程.md",
+    "source_pages": [
+      334
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "5209fb1b98f4b614bd895a995b6e9227e9d9c8bdf9894b0126f6ec84526ed7bf",
+    "title": "悬链线的弧段与张力分解"
+  },
+  {
+    "figure": "7-7",
+    "asset": "原书插图/SVG/图7-7.svg",
+    "doc": "第七章-微分方程/7-5-可降阶的高阶微分方程.md",
+    "source_pages": [
+      336
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "572edc329421683b462390be3a77194323509d0c0f92b6e3b8545e5c9f8457f6",
+    "title": "远离地面物体的径向下落"
+  },
+  {
+    "figure": "7-8",
+    "asset": "原书插图/SVG/图7-8.svg",
+    "doc": "第七章-微分方程/7-6-高阶线性微分方程.md",
+    "source_pages": [
+      339
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "e1ae0a8da0445b6d306a2c042ed2d1584919987cb40a62e54c73abc1e8a1da82",
+    "title": "弹簧振子的平衡位置与位移"
+  },
+  {
+    "figure": "7-9",
+    "asset": "原书插图/SVG/图7-9.svg",
+    "doc": "第七章-微分方程/7-6-高阶线性微分方程.md",
+    "source_pages": [
+      340
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "38597e97a6357094b1005aef0864a712149b0ef12508398554e6a427fb06c2c9",
+    "title": "电阻、电感与电容串联电路"
+  },
+  {
+    "figure": "7-10",
+    "asset": "原书插图/SVG/图7-10.svg",
+    "doc": "第七章-微分方程/7-7-常系数齐次线性微分方程.md",
+    "source_pages": [
+      351
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "779101e255f6450c324bbc411c29e7d03a61be8641be8559bbd9d3e3248e7322",
+    "title": "无阻尼自由振动"
+  },
+  {
+    "figure": "7-11",
+    "asset": "原书插图/SVG/图7-11.svg",
+    "doc": "第七章-微分方程/7-7-常系数齐次线性微分方程.md",
+    "source_pages": [
+      353
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "4f09b79c5aebf66a2708611ed17bbd11e765e5b4173850eed6f3eb92b8d11bc9",
+    "title": "有阻尼振动的衰减"
+  },
+  {
+    "figure": "7-12",
+    "asset": "原书插图/SVG/图7-12.svg",
+    "doc": "第七章-微分方程/7-7-常系数齐次线性微分方程.md",
+    "source_pages": [
+      353
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "bf4d57a629d2d30fe1907da374077c373a52024cc3fab44994f45925cb338b28",
+    "title": "非振荡运动趋于平衡"
+  },
+  {
+    "figure": "7-13",
+    "asset": "原书插图/SVG/图7-13.svg",
+    "doc": "第七章-微分方程/7-7-常系数齐次线性微分方程.md",
+    "source_pages": [
+      356
+    ],
+    "kind": "按原书关系重绘的 SVG 示意图",
+    "sha256": "9b928de16b258d1a54215d270c92f13b0a62343e231dad628d6be474a88f2856",
+    "title": "电容充电与切换放电电路"
+  },
+  {
+    "appendix": "II",
+    "book_page": 364,
+    "source_pages": [
+      381
+    ],
+    "asset": "原书插图/SVG/附录II-364.svg",
+    "doc": "附录II 基本初等函数的图形.md",
+    "kind": "按原书公式重绘的 SVG 图表",
+    "sha256": "27a12300460db7e78251c429a4b632471f4b232b1a0d999a7b53b3d4d656d68f",
+    "title": "幂函数、指数函数、对数函数与正弦函数图形"
+  },
+  {
+    "appendix": "II",
+    "book_page": 365,
+    "source_pages": [
+      382
+    ],
+    "asset": "原书插图/SVG/附录II-365.svg",
+    "doc": "附录II 基本初等函数的图形.md",
+    "kind": "按原书公式重绘的 SVG 图表",
+    "sha256": "04886ecdac6a61eafa8ec9767d8670fc076cc154edd5079f4e9bc39d6ac8782b",
+    "title": "余弦、正切、余切、正割与余割函数图形"
+  },
+  {
+    "appendix": "II",
+    "book_page": 366,
+    "source_pages": [
+      383
+    ],
+    "asset": "原书插图/SVG/附录II-366.svg",
+    "doc": "附录II 基本初等函数的图形.md",
+    "kind": "按原书公式重绘的 SVG 图表",
+    "sha256": "7996778821700db1ea04898f5d54a6cd2b9271823c8c0a46c07e85fd73022469",
+    "title": "反正弦、反余弦、反正切与反余切函数图形"
+  },
+  {
+    "appendix": "III",
+    "book_page": 367,
+    "source_pages": [
+      384
+    ],
+    "asset": "原书插图/SVG/附录III-367.svg",
+    "doc": "附录III 几种常用的曲线.md",
+    "kind": "按原书公式重绘的 SVG 图表",
+    "sha256": "ccf39904dd3614a94bc630992ea0c327d53f2a62e046f28774c24b22af611ea2",
+    "title": "三次抛物线、半立方抛物线、概率曲线与箕舌线"
+  },
+  {
+    "appendix": "III",
+    "book_page": 368,
+    "source_pages": [
+      385
+    ],
+    "asset": "原书插图/SVG/附录III-368.svg",
+    "doc": "附录III 几种常用的曲线.md",
+    "kind": "按原书公式重绘的 SVG 图表",
+    "sha256": "eb1ef4595ce79efc67f6d47ad41e200d68f8c952c45ce1621f2dcd831ae73936",
+    "title": "蔓叶线、笛卡儿叶形线、星形线、摆线与螺线"
+  },
+  {
+    "appendix": "III",
+    "book_page": 369,
+    "source_pages": [
+      386
+    ],
+    "asset": "原书插图/SVG/附录III-369.svg",
+    "doc": "附录III 几种常用的曲线.md",
+    "kind": "按原书公式重绘的 SVG 图表",
+    "sha256": "b229cf2e4e7214611ddb739a1e9d4d290da30e4145ff028932305887839c4a21",
+    "title": "对数螺线、双曲螺线、双纽线与三叶玫瑰线"
+  },
+  {
+    "appendix": "III",
+    "book_page": 370,
+    "source_pages": [
+      387
+    ],
+    "asset": "原书插图/SVG/附录III-370.svg",
+    "doc": "附录III 几种常用的曲线.md",
+    "kind": "按原书公式重绘的 SVG 图表",
+    "sha256": "091fe2d0fb4bc353d42896a5ef87252d852aa2e79af3707a25408fcc39d2b78e",
+    "title": "四叶玫瑰线的两种极坐标形式"
+  }
+]
